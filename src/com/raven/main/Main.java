@@ -30,6 +30,7 @@ public class Main extends javax.swing.JFrame {
     public Main() {
         initComponents();
         init();
+        System.out.println("hello");
     }
 
     private void init() {
